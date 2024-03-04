@@ -1,3 +1,10 @@
+#-------------------------------------------------------#
+# Program: Connect-4-Game
+# Author:  Ibrahim Mohamed
+# Version: 3.0
+# Date:    3/4/2024
+#-------------------------------------------------------#
+
 # Function to check the validity of a number of column
 def check_number(number):
     while True:
