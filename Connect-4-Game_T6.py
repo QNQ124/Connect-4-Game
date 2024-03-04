@@ -1,16 +1,3 @@
-# ========================================================================= #
-# Program: Connect- 4 game. A board of 7 columns x 6 rows is displayed
-#          that is held up in physical game as in figure below with row 1
-#          is the bottom row: Players choose a symbol, either X or O. In
-#          their turn, they drop the symbol from top of the board (number 6)
-#          until it settles in the bottom empty cell.The first player to
-#          connect 4 symbols horizontally, vertically or diagonally wins.
-# Author:  Ibrahim Mohamed Saad Mohamed Hamdy ............. 20230003
-# Date:    28/2/2024
-# Version: 2.0
-# ========================================================================= #
-
-
 # Function to check the validity of a number of column
 def check_number(number):
     while True:
